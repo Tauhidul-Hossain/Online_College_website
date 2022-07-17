@@ -1,0 +1,6 @@
+2022-03-02T02:08:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-03-02T02:10:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2022-03-02T04:05:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\Requests\Transport\cURL.php on line 484
+

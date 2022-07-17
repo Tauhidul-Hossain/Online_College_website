@@ -1,0 +1,24 @@
+2022-03-04T04:57:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-admin\edit-form-advanced.php on line 10
+
+2022-03-04T05:03:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\templates\single-product\meta.php on line 18
+
+2022-03-04T05:06:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\wp-db.php on line 2162
+
+2022-03-04T05:06:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\wp-db.php on line 2162
+
+2022-03-04T05:07:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\wp-db.php on line 2162
+
+2022-03-04T05:08:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\MobileAppBanner.php on line 5
+
+2022-03-04T05:08:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\MobileAppBanner.php on line 5
+
+2022-03-04T05:08:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\MobileAppBanner.php on line 5
+
+2022-03-04T05:08:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\MobileAppBanner.php on line 5
+
+2022-03-04T05:08:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-includes\blocks.php on line 234
+
+2022-03-04T05:08:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\wpforms-lite\includes\fields\class-checkbox.php on line 734
+
+2022-03-04T05:08:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\prudencecollege\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductsByAttribute.php on line 73
+
